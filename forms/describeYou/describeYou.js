@@ -4,6 +4,6 @@ rdoCharacteristics.onclick=function(){
   lblMessage.value = `I would agree that you are a ${userChoice} person too.`
 }
 
-Button1.onclick=function(){
+btnChangeForm.onclick=function(){
   ChangeForm(favExercises)
 }
