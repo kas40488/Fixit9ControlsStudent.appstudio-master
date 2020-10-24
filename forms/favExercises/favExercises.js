@@ -18,25 +18,3 @@ btnSubmit.onclick=function(){
 btnChangeMobileNav.onclick=function(){
   ChangeForm(mobileNav)
 }
-
-
-/*
-  for (i = 0; i < coreExercises.length; i++)
-    selExercises.addItem(coreExercises[i])
-    
-    
-      
-  else if (choice.length == 2) {
-    for (i = 0; i < 2; i++)
-      choice.includes(coreExercises)
-
-}  else {
-
-  }
-}
-
-  if (typeof(choice) == "object")
-    return
-if (coreExercises.includes(choice[0]))
-# boolean for second one
-    */
