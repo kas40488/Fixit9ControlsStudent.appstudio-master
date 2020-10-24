@@ -15,9 +15,9 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 72,
+  "height": 129,
   "hidden": "",
-  "id": "lblMsg",
+  "id": "lblMsg2",
   "labelStyle": "text",
   "left": 32,
   "mAll": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 342,
+  "top": 283,
   "value": "",
-  "width": 267
+  "width": 153
 }
